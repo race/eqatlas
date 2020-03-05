@@ -6,1779 +6,1757 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://eqatlas.ca/</loc>
-  <lastmod>2015-11-07T01:32:59+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/index.html</loc>
-  <lastmod>2015-11-07T01:32:59+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/atlas.html</loc>
   <lastmod>2015-11-05T09:03:53+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/eantonicamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/santonicamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/wantonicamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/freeport.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/grobb.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/halas.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/neriak.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kelethin.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/oggok.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/qeynos.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/qeynoscatacombs.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/rivervale.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/surefallglade.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/arena.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/befallen.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/blackburrow.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cazicthule.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/eastcommons.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/easternkarana.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/everfrost.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/feerott.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/gxorbb.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/highpasshold.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/highkeep.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/innothule.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/jaggedpineforest.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kithicor.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lakerathetear.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lavastorm.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lowerguk.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/mistythicket.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nagafenslair.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/najena.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nektulosforest.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/northro.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/northernkarana.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/oasisofmarr.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/permafrost.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/qeynoshills.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/rathemtns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/runnyeye.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/solusekseye.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/southro.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/southernkarana.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/splitpaw.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/templesro.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/upperguk.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/westcommons.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/westernkarana.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/odusmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/erudin.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/paineel.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/faydwermap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/felwithe.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kaladim.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/akanon.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/erudscrossing.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kerraisle.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/stonebruntmtns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/toxxuliaforest.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/hole.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/warrens.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/butcherblock.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/mistmoore.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/crushbone.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dagnor.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/unrest.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/greaterfaydark.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kedgekeep.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lesserfaydark.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/oot.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/steamfont.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kunarkzones.html</loc>
-  <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cabilis.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/burningwood.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/chardok.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cityofmist.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dalnir.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dreadlands.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/emeraldjungle.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/fieldofbone.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/firionavie.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/frontiermtns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/howlingstones.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kaesora.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/karnorscastle.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kurnstower.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lakeofillomen.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/minesofnurga.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/overthere.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sebilis.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyfiremtns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/swampofnohope.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/templeofdroga.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/timorousdeep.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/trakanonsteeth.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/veeshanspeak.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/warslikswoods.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/veliousmap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/icewellkeep.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kaeldrakkal.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrine.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/thurgadin.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cobaltscar.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/crystalcaverns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dragonnecropolis.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/easternwastes.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/greatdivide.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/icecladocean.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sirensgrotto.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sleeperstombmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/towerfrozenshadow.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/velketorslabyrinth.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/wakeningland.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/westernwastes.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/luclinzones.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/bazaar.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kattacastellum.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nexus.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sanctusseru.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/shadowhaven.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sharvahl.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/acryliacaverns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/akhevaruins.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dawnshroudpeaks.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/thedeep.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/echocaverns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/fungusgrove.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/thegrey.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/griegsend.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/grimlingforest.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/hollowshademoor.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/maidenseye.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/marusseru.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/monsletalis.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/netherbianlair.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/paludalcaverns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/scarletdesert.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/shadeweaversthicket.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ssraeshzatemple.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/tenebrousmtns.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/twilightsea.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/umbralplains.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/vexthal.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofskymap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeoffearmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofgrowthmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofhatemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/bastionofthundermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lairofterristhulemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/burninglandsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/fortressofzekmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/eryslaimap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/hallsofhonormap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofdiseasemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofknowledge.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofstormsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeoftormentmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofwatermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cryptofdecaymap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/templeofmarrmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/solusekrostowermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nfreeportmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/wfreeportmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/efreeportmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/wfptunnelsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/efptunnelsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/grobbmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/halasmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/neriakforeignmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/neriakcommonsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/neriakthirdgatemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kelethinmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/oggokmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nqeynosmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sqeynosmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/qeynoscatacombsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/rivervalemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/surefallglademap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/arenamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/befallen12map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/befallen3map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/blackburrow1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/blackburrow2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/blackburrow3map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ctmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ctlowermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ctcydetailmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ctmazedetailmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/eastcommonsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ekaranamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/everfrostmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/everfrostcavesmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/feerottmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/gxorbbmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/highpassholdmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/highkeepmainmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/highkeepuppermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/innothulemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/jaggedpineforestmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kithicormap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lakerathetearmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lavastormmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lguklivemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lgukdeadmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/mistythicketmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nagafenslairmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/najenamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nektulosmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/northromap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/northernkaranamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/oasisofmarrmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/permafrostmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/qeynoshillsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/rathemtnsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/runnyeye1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/runnyeye2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/runnyeye3map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/runnyeye4map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/solusekseyemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/southromap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/southernkaranamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/splitpawmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/uppergukmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/westcommonsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/westernkaranamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/erudinmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/erudindocksmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/erudinpalacemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/paineelinmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/paineeloutmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://eqatlas.ca/images/faydwer.html</loc>
-  <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nfelwithemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sfelwithemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nkaladimmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skaladimmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/akanonmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/erudscrossingmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kerraislemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/stonebruntmtnsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/toxxuliamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/holemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/hole2map.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/warrensmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/butcherblockmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/mistmooremap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/crushbonemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dagnormap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/unrestmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/unrestmanormap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/greaterfaydarkmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kedgekeepmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lesserfaydarkmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ootmap1.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ootmap2.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/steamfontmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/minocavesmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://eqatlas.ca/veksar.html</loc>
-  <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/ecabilismap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/wcabilismap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/burningwoodmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cityofmistmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dalnir1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dalnir2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dalnir3map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dreadlandsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dreadlandsvalleymap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/emeraldjunglemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/fieldofbonemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/fieldsubmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/firionaviemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/firionaviedocks.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/frontiermtnsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/howlingstonesmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/howlingstones2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kaesora1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kaesora23map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/karnors1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/karnors2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kurnsuppermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kurnslowermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lakeofillomenmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lakeofillomensarnakmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/lakeofillomengoblinmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nurga1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nurga2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/overtheremap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://eqatlas.ca/cabfptravel.html</loc>
-  <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sebilis1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sebilis2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyfiremtnsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/swampofnohopemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/templeofdrogamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/templeofdroga2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/timorousdeepmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://eqatlas.ca/boattravel.html</loc>
-  <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://eqatlas.ca/timorousteleport.html</loc>
-  <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/trakanonsteethmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/veeshanspeakmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/warslikswoodsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/warwoodstunnelsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/icewellkeepmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kaeldrakkalmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinemainlowermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinemainuppermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinemazeuppermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinemazelowermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinetower1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinetower2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrinetower3map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/skyshrineyelinaksmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/thurgadinmap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/thurgadinminesmap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/cobaltscarmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/crystalcavernsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/crystalcavernswellmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/crystalcavernstownmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/easternwastesmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/greatdividemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/icecladoceanmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sirensgrotto1map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sirensgrotto2map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sirensgrotto3map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/tofs14map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/tofs57map.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/wakeninglandmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/westernwastesmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/bazaarmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/kattacastellummap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/nexusmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sanctusserumap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/shadowhavenmap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sharvahluppermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/sharvahllowermap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/akhevaruinsmap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/dawnshroudpeaksmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/echocavernsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/fungusgrovemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/thegreymap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/grimlingforestmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/hollowshademoormap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/maidenseyemap.html</loc>
   <lastmod>2015-10-28T23:05:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/marusserumap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/monsletalismap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/netherbianlairmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/paludalcavernsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/scarletdesertmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/shadeweaversthicketmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/tenebrousmtnsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/twilightseamap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/umbralplainsmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/planeofknowledgemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
+
+
 </urlset>
