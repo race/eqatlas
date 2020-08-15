@@ -54,4 +54,10 @@
   <link rel="icon"
         type="image/png"
         href="/favicon.ico">
+
+  <?php
+  if (ENV == PROD) {
+    echo ANALYTICS;
+  }
+  ?>
 </head>
