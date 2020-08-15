@@ -94,9 +94,5 @@
     </td>
   </tr>
 </table>
-<p align="center">all contents Copyright 1999-2003 EQ Atlas Web Site</p>
 
-</body>
-
-<!-- Mirrored from www.allakabor.com/eqatlas/kelethin.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Oct 2014 04:10:33 GMT -->
-</html>
+<p>Updated: Aug 15th, 2020</p>
