@@ -14,14 +14,14 @@
         <p>EQAtlas.ca is undergoing a bunch of backend work to help template-ize our archaeic mapbook. The design will remain intact for the exhilerating nostalgia of classic EQAtlas &lt;3. With the maps templated, headers and pages can be dynamically created by the server so we'll be able to link to connected zones directly from the map pages. This means as you travel from Butcherblock Mountains to Kaladim you won't need to go back to the Index page (or the map detail page) - you'll be able to flow directly to the next map from your current map!</p>
         <p>We are going to start with some of the most commonly used zones and expand from there:
           <ul>
-            <li>Greater Faydark</li>
-            <li>Butcherblock Mountains</li>
-            <li>Kaladim (North and South)</li>
-            <li>West Commonlands</li>
-            <li>East Commonlands</li>
-            <li>East Karana</li>
-            <li>West Karana</li>
-            <li>North Karana</li>
+            <li>[ ] Greater Faydark</li>
+            <li>[ ] Butcherblock Mountains</li>
+            <li>[ ] Kaladim (North and South)</li>
+            <li>[X] West Commonlands</li>
+            <li>[X] East Commonlands</li>
+            <li>[ ] East Karana</li>
+            <li>[ ] West Karana</li>
+            <li>[ ] North Karana</li>
           </ul>
         </p>
         <p>On the more technical side of things, the following are being done:
