@@ -1,0 +1,356 @@
+<table width=95% border="0" cellpadding="0" cellspacing="5" align="center">
+  <tr valign="top">
+    <td colspan="3">
+      <table cellspacing=20 border="1" width=90% align="center">
+        <tr>
+          <th align=center colspan="4"><h2><a name="antonica">ANTONICA</a></h2></th>
+        </tr>
+        <tr class="content-list">
+          <td align=center colspan="2" width=45%>
+            <h4>Zone Connection Maps</h4>
+
+            <div class="content">
+              <a href="eantonicamap.html">East Antonica</a><br>
+              <a href="santonicamap.html">South Antonica</a><br>
+              <a href="wantonicamap.html">West Antonica</a>
+            </div>
+
+            <p>&nbsp;</p>
+          </td>
+          <td align=center colspan="2" width=45%>
+            <h4>Cities</h4>
+
+            <div class="content">
+              <a href="freeport.html">Freeport</a><br>
+              <a href="grobb.html">Grobb</a><br>
+              <a href="halas.html">Halas</a><br>
+              <a href="neriak.html"> Neriak</a>
+              <a href="kelethin.html">Kelethin</a><br>
+              <a href="oggok.html">Oggok</a><br>
+              <a href="qeynos.html">Qeynos</a><br>
+              <a href="qeynoscatacombs.html">Qeynos Catacombs</a><br>
+              <a href="rivervale.html">Rivervale</a><br>
+              <a href="surefallglade.html">Surefall Glade</a>
+            </div>
+          </td>
+        </tr>
+        <tr class="sub-th">
+          <th align=center colspan=4>
+            <h4>Zones</h4>
+          </th>
+        </tr>
+        <tr class="content-list">
+          <td align=center colspan=2>
+            <div class="content">
+              <a href="arena.html">The Arena</a><br>
+              <a href="befallen.html">Befallen</a><br>
+              <a href="blackburrow.html">Blackburrow</a><br>
+              <a href="cazicthule.html">Cazic-Thule</a> <br>
+              <a href="/ecommons">East Commonlands (ecommons)</a><br>
+              <a href="easternkarana.html">Eastern Plains of Karana</a> <br>
+              <a href="everfrost.html">Everfrost</a><br>
+              <a href="feerott.html">The Feerrott</a><br>
+              <a href="gxorbb.html">Gorge of King Xorbb</a> <br>
+              <a href="highpasshold.html">Highpass Hold</a><br>
+              <a href="highkeep.html">High Keep</a><br>
+              <a href="innothule.html">Innothule Swamp</a><br>
+              <a href="jaggedpineforest.html">Jaggedpine Forest</a><br>
+              <a href="kithicor.html">Kithicor Forest</a><br>
+              <a href="lakerathetear.html">Lake Rathetear</a><br>
+              <a href="lavastorm.html">Lavastorm Mountains</a><br>
+              <a href="lowerguk.html">Lower Guk</a><br>
+              <a href="mistythicket.html">Misty Thicket</a><br>
+            </div>
+          </td>
+          <td align=center colspan=2>
+            <div class="content">
+              <a href="nagafenslair.html">Nagafen's Lair</a> (a.k.a. Sol B)<br>
+              <a href="najena.html">Najena</a><br>
+              <a href="nektulosforest.html">Nektulos Forest</a><br>
+              <a href="northro.html">Northern Desert of Ro</a><br>
+              <a href="northernkarana.html">Northern Plains of Karana</a><br>
+              <a href="oasisofmarr.html">Oasis of Marr</a><br>
+              <a href="permafrost.html">Permafrost Keep</a><br>
+              <a href="qeynoshills.html">Qeynos Hills</a><br>
+              <a href="rathemtns.html">Rathe Mountains</a><br>
+              <a href="runnyeye.html">Runnyeye Citadel</a><br>
+              <a href="solusekseye.html">Solusek's Eye</a> (a.k.a. Sol A)<br>
+              <a href="southro.html">Southern Desert of Ro</a><br>
+              <a href="southernkarana.html">Southern Plains of Karana</a><br>
+              <a href="splitpaw.html">Splitpaw</a> <br>
+              <a href="templesro.html">Temple of Solusek Ro</a> <br>
+              <a href="upperguk.html">Upper Guk</a><br>
+              <a href="/commons">West Commonlands (commons)<br></a>
+              <a href="westernkarana.html">Western Plains of Karana</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th align=center colspan="2"><h2><a name="odus">ODUS</a></h2></th>
+          <th align=center colspan=2><h2><a name="faydwer">FAYDWER</a></h2></th>
+        </tr>
+        <tr class="content-list">
+          <td align=center height="72">
+            <p><b>Zone Connection Map</b></p>
+
+            <div class="content">
+              <a href="odusmap.html">Odus</a>
+            </div>
+          </td>
+          <td align=center height="72">
+            <p><b>Cities</b></p>
+
+            <div class="content">
+              <a href="erudin.html">Erudin</a><br>
+              <a href="paineel.html">Paineel </a>
+            </div>
+          </td>
+          <td align=center height="72">
+            <p><b>Zone Connection Map</b></p>
+
+            <div class="content">
+              <a href="faydwermap.html">Faydwer</a>
+            </div>
+          </td>
+          <td align=center height="72">
+            <p><b>Cities </b></p>
+
+            <div class="content">
+              <a href="felwithe.html">Felwithe</a><br>
+              <a href="kelethin.html">Kelethin</a><br>
+              <a href="kaladim.html">Kaladim</a><br>
+              <a href="akanon.html">Ak'Anon</a>
+            </div>
+          </td>
+        </tr>
+        <tr class="sub-th">
+          <th align="center" colspan="4">
+            <h4>Zones</h4>
+          </th>
+        </tr>
+        <tr class="content-list">
+          <td align=center height="72" valign="top" colspan="2">
+            <div class="content">
+              <a href="erudscrossing.html">Erud's Crossing</a><br>
+              <a href="kerraisle.html">Kerra Island</a><br>
+              <a href="stonebruntmtns.html">Stonebrunt Mountains</a><br>
+              <a href="toxxuliaforest.html">Toxxulia Forest</a><br>
+              <a href="hole.html">The Hole</a><br>
+              <a href="warrens.html">The Warrens</a><br>
+            </div>
+          </td>
+          <td align=center height="72" valign="top" colspan="2">
+            <div class="content">
+              <a href="butcherblock.html">Butcherblock Mountains</a><br>
+              <a href="mistmoore.html">Castle Mistmoore</a><br>
+              <a href="crushbone.html">Crushbone</a><br>
+              <a href="dagnor.html">Dagnor's Cauldron</a><br>
+              <a href="unrest.html">Estate of Unrest</a><br>
+              <a href="greaterfaydark.html">Greater Faydark</a><br>
+              <a href="kedgekeep.html">Kedge Keep</a><br>
+              <a href="lesserfaydark.html">Lesser Faydark</a><br>
+              <a href="oot.html">Ocean of Tears</a><br>
+              <a href="steamfont.html">Steamfont Mountains</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th align=center colspan="4"><h2><a name="kunark">KUNARK</a></h2></th>
+        </tr>
+        <tr class="content-list">
+          <td align=center colspan="2">
+            <h4>Zone Connection Maps</h4>
+
+            <div class="content">
+              <a href="kunarkzones.html">Kunark</a>
+            </div>
+          </td>
+          <td align=center colspan="2">
+            <h4>Cities</h4>
+
+            <div class="content">
+              <a href="cabilis.html">Cabilis</a>
+            </div>
+          </td>
+        </tr>
+        <tr class="sub-th">
+          <th align=center colspan=4>
+            <h4>Zones</h4>
+          </th>
+        </tr>
+        <tr class="content-list">
+          <td align=center colspan=2>
+            <div class="content">
+              <a href="burningwood.html">Burning Wood</a><br>
+              <a href="chardok.html">Chardok</a><br>
+              <a href="cityofmist.html">City of Mist</a><br>
+              <a href="dalnir.html">Dalnir</a><br>
+              <a href="dreadlands.html">The Dreadlands</a><br>
+              <a href="emeraldjungle.html">Emerald Jungle</a><br>
+              <a href="fieldofbone.html">The Field of Bone</a><br>
+              <a href="firionavie.html">Firiona Vie</a><br>
+              <a href="frontiermtns.html">Frontier Mountains</a><br>
+              <a href="howlingstones.html">Howling Stones</a> (a.k.a. Charsis)<br>
+              <a href="kaesora.html">Kaesora</a><br>
+              <a href="karnorscastle.html">Karnor's Castle </a>
+            </div>
+          </td>
+          <td align=center colspan=2>
+            <div class="content">
+              <a href="kurnstower.html">Kurn's Tower</a><br>
+              <a href="lakeofillomen.html">Lake of Ill Omen</a><br>
+              <a href="minesofnurga.html">Mines of Nurga</a><br>
+              <a href="overthere.html">The Overthere</a><br>
+              <a href="sebilis.html">Sebilis</a><br>
+              <a href="skyfiremtns.html">Skyfire Mountains</a><br>
+              <a href="swampofnohope.html">Swamp of No Hope</a><br>
+              <a href="templeofdroga.html">Temple of Droga </a><br>
+              <a href="timorousdeep.html">Timorous Deep</a><br>
+              <a href="trakanonsteeth.html">Trakanon's Teeth</a><br>
+              <a href="veeshanspeak.html">Veeshan's Peak</a><br>
+              <a href="warslikswoods.html">Warsliks Woods</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th align=center colspan="4"><h2><a name="velious">VELIOUS</a></h2></th>
+        </tr>
+        <tr class="content-list">
+          <td align=center colspan="2">
+            <h4>Zone Connection Maps</h4>
+
+            <div class="content">
+              <a href="veliousmap.html">Velious</a>
+            </div>
+          </td>
+          <td align=center colspan="2">
+            <h4>Cities</h4>
+
+            <div class="content">
+              <a href="icewellkeep.html">Icewell Keep</a><br>
+              <a href="kaeldrakkal.html">Kael Drakkal</a><br>
+              <a href="skyshrine.html">Skyshrine</a><br>
+              <a href="thurgadin.html">Thurgadin</a>
+            </div>
+          </td>
+        </tr>
+        <tr class="sub-th">
+          <th align=center colspan=4>
+            <h4>Zones</h4>
+          </th>
+        </tr>
+        <tr class="content-list">
+          <td align=center colspan=2>
+            <div class="content">
+              <a href="cobaltscar.html">Cobalt Scar</a><br>
+              <a href="crystalcaverns.html">Crystal Caverns</a><br>
+              <a href="dragonnecropolis.html">Dragon Necropolis</a><br>
+              <a href="easternwastes.html">Eastern Wastes</a><br>
+              <a href="greatdivide.html">The Great Divide</a><br>
+              <a href="icecladocean.html">Iceclad Ocean</a> <br>
+              <a href="sirensgrotto.html">Siren's Grotto</a>
+            </div>
+          </td>
+          <td align=center colspan=2>
+            <div class="content">
+              <a href="sleeperstombmap.html">Sleeper's Tomb</a><br>
+              <a href="images/templeveeshan.jpg">Temple of Veeshan</a><br>
+              <a href="towerfrozenshadow.html">Tower of Frozen Shadow</a><br>
+              <a href="velketorslabyrinth.html">Velketor's Labyrinth</a><br>
+              <a href="wakeningland.html">Wakening Land</a><br>
+              <a href="westernwastes.html">Western Wastes</a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table cellspacing=1 border=0 width=90% align="center">
+  <tr>
+    <td>
+
+      <div class="footnotes">
+        <br/><br/>
+        <hr>
+        <br/><br/>
+
+        <h1><a name=notes>Notes</a></h1>
+        <hr/>
+        <h2>Nav. Improvements Under Development</h2>
+        <p class="date">Aug 15, 2020</p>
+        <p>EQAtlas.ca is undergoing a bunch of backend work to help template-ize our archaeic mapbook. The design will remain intact for the exhilerating nostalgia of classic EQAtlas &lt;3. With the maps templated, headers and pages can be dynamically created by the server so we'll be able to link to connected zones directly from the map pages. This means as you travel from Butcherblock Mountains to Kaladim you won't need to go back to the Index page (or the map detail page) - you'll be able to flow directly to the next map from your current map!</p>
+        <p>We are going to start with some of the most commonly used zones and expand from there:
+          <ul>
+            <li>Greater Faydark</li>
+            <li>Butcherblock Mountains</li>
+            <li>Kaladim (North and South)</li>
+            <li>West Commonlands</li>
+            <li>East Commonlands</li>
+            <li>East Karana</li>
+            <li>West Karana</li>
+            <li>North Karana</li>
+          </ul>
+        </p>
+        <p>On the more technical side of things, the following are being done:
+          <ul>
+            <li>Content is being moved into a database for easier updates</li>
+            <li>Pages to be generated dynamically</li>
+            <li>URLs will be more friendly</li>
+            <li>Links to Project1999 pages will be added over time</li>
+          </ul>
+        </p>
+
+        <p class="signature-we">- Serynn Dipity</p>
+        <hr/>
+        <h2>Broken Links Fixed</h2>
+        <p class="date">Mar 5, 2020</p>
+        <p>We noticed we had a few pages giving an error or broken links, these should be correctly removed/cleaned up now.</p>
+        <p class="signature-we">- Serynn Dipity</p>
+        <hr/>
+        <h2>Maps Post-Velious Removed</h2>
+        <p class="date">Oct 10, 2016</p>
+        <p>We decided to remove any maps that were Post-Velious as they aren't used for the classic / Project1999 experience anyway. Less is more, they say ;-)</p>
+        <p>For those who don't want to embrace the Lord of Hate, you can still access them via the "<a href="/atlas.html">Ye Old Atlas</a>" page.</p>
+        <p class="signature-de">- Tydel Shadow`Shifter</p>
+        <hr/>
+        <h2>EQAtlas.ca is now fully encrypted!</h2>
+        <p class="date">Nov 6, 2015</p>
+        <p>Here at EQAtlas.ca, we are proud to sssupport initiativesss that focusss on internet freedom and sssafety - as a ressult we've enabled full encryption for our audience. Now even you can join The Faceless in the Temple of Terror. Enjoy!</p>
+        <p>Our encryption certificatesss are provided by Let's Encrypt - for more information on this exciting initiatve, visit: <a href="https://letsencrypt.org/" target="_blank">letsencrypt.org</a></p>
+        <p class="signature-ik">- Sacraxiles Shadow`Spirit</p>
+        <br/>
+        <hr>
+        <br/>View Source: <a href="https://github.com/EQAtlas/eqatlas" target="_blank">https://github.com/EQAtlas/eqatlas</a>
+        <br/><br/>
+        <br/><br/><br/><br/>
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+<?php
+/*
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+              (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-69460613-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+*/
+?>
+<link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
