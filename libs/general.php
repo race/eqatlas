@@ -1,6 +1,5 @@
 <?php
-
-
+require_once('./libs/config.php');
 function debug($object) {
   var_dump($object);
 }
