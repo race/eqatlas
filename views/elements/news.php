@@ -15,7 +15,7 @@
         <p>We are going to start with some of the most commonly used zones and expand from there:
           <ul>
             <li>[ ] Greater Faydark</li>
-            <li>[ ] Butcherblock Mountains</li>
+            <li>[X] Butcherblock Mountains</li>
             <li>[ ] Kaladim (North and South)</li>
             <li>[X] West Commonlands</li>
             <li>[X] East Commonlands</li>

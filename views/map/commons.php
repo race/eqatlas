@@ -1,4 +1,4 @@
-<table width=95% border="1px" cellpadding="0" cellspacing="5" align="center">
+<table width=95% border="1" cellpadding="5" cellspacing="5" align="center">
   <tr>
     <th>Adjacent Zones:</th>
     <td>

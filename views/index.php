@@ -141,7 +141,7 @@
           </td>
           <td align=center height="72" valign="top" colspan="2">
             <div class="content">
-              <a href="butcherblock.html">Butcherblock Mountains</a><br>
+              <a href="/butcher">Butcherblock Mountains</a><br>
               <a href="mistmoore.html">Castle Mistmoore</a><br>
               <a href="crushbone.html">Crushbone</a><br>
               <a href="dagnor.html">Dagnor's Cauldron</a><br>
