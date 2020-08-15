@@ -118,7 +118,7 @@
             <div class="content">
               <a href="felwithe.html">Felwithe</a><br>
               <a href="kelethin.html">Kelethin</a><br>
-              <a href="kaladim.html">Kaladim</a><br>
+              <a href="/kaladim">Kaladim</a> (North and South)<br>
               <a href="akanon.html">Ak'Anon</a>
             </div>
           </td>

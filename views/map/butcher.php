@@ -4,7 +4,7 @@
     <td>
       <a href="/oot.html">Ocean of Tears</a> (Boat) |
       <a href="/timorousdeep.html">Timorous Deep</a> (Boat) |
-      <a href="/kaladim.html">Kaladim</a> |
+      <a href="/map/kaladima">Kaladim (South)</a> |
       <a href="/dagnor.html">Dagnor's Cauldron</a> |
       <a href="/greaterfaydark.html">Greater Faydark</a>
     </td>

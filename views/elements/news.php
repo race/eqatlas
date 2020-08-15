@@ -16,7 +16,7 @@
           <ul>
             <li>[ ] Greater Faydark</li>
             <li>[X] Butcherblock Mountains</li>
-            <li>[ ] Kaladim (North and South)</li>
+            <li>[X] Kaladim (North and South)</li>
             <li>[X] West Commonlands</li>
             <li>[X] East Commonlands</li>
             <li>[ ] East Karana</li>

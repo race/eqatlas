@@ -41,6 +41,15 @@ $pages = array(
   'butcher' => array(
     'title' => 'Butcherblock Mountains',
   ),
+  'kaladim' => array(
+    'title' => 'Dwarven City of Kaladim',
+  ),
+  'kaladima' => array(
+    'title' => 'South Kaladim',
+  ),
+  'kaladimb' => array(
+    'title' => 'North Kaladim',
+  ),
 );
 if (in_array($view, array_keys($pages))) {
   //$Page->name = $_GET['view']; // if we don't whitelist here it could allow for an attacker to traverse directories
@@ -56,6 +65,9 @@ switch ($view) {
   case 'commons' :
   case 'ecommons' :
   case 'butcher' :
+  case 'kaladim' :
+  case 'kaladima' :
+  case 'kaladimb' :
     // valid pages
     break;
   default :
