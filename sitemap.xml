@@ -9,17 +9,17 @@
 
 <url>
   <loc>https://eqatlas.ca/</loc>
-  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/index.html</loc>
-  <lastmod>2020-03-05T20:38:08+00:00</lastmod>
+  <loc>https://eqatlas.ca/atlas.html</loc>
+  <lastmod>2020-08-15T18:44:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/atlas.html</loc>
-  <lastmod>2015-11-05T09:03:53+00:00</lastmod>
+  <loc>https://eqatlas.ca/index</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -58,8 +58,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/kelethin.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/kelethin</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -108,8 +108,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/eastcommons.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/ecommons</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -258,8 +258,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/westcommons.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/commons</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -293,8 +293,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/kaladim.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/kaladim</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -333,8 +333,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/butcherblock.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/butcher</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -358,8 +358,8 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/greaterfaydark.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/gfay</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -596,6 +596,36 @@
   <loc>https://eqatlas.ca/westernwastes.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/kelethin.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/eastcommons.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/westcommons.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/kaladim.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/butcherblock.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/greaterfaydark.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://eqatlas.ca/luclinzones.html</loc>
@@ -883,8 +913,13 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/kelethinmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/index.php</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/map/kelethin</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -968,8 +1003,8 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/eastcommonsmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/map/ecommons</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -1143,8 +1178,8 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/westcommonsmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/map/commons</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -1188,13 +1223,13 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/nkaladimmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/map/kaladimb</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/skaladimmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/map/kaladima</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -1238,8 +1273,8 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/butcherblockmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/map/butcher</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -1268,8 +1303,8 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://eqatlas.ca/greaterfaydarkmap.html</loc>
-  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <loc>https://eqatlas.ca/map/gfay</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -1483,6 +1518,11 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://eqatlas.ca/timorousteleport.html</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://eqatlas.ca/trakanonsteethmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
   <priority>0.64</priority>
@@ -1633,6 +1673,41 @@
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://eqatlas.ca/kelethinmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/eastcommonsmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/westcommonsmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/nkaladimmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/skaladimmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/butcherblockmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/greaterfaydarkmap.html</loc>
+  <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://eqatlas.ca/bazaarmap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
   <priority>0.51</priority>
@@ -1755,6 +1830,21 @@
 <url>
   <loc>https://eqatlas.ca/planeofknowledgemap.html</loc>
   <lastmod>2015-10-29T18:56:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/map/crushbone.html</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/map/lesserfaydark.html</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eqatlas.ca/map/felwithe.html</loc>
+  <lastmod>2020-08-15T21:18:39+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
