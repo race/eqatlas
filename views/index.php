@@ -24,8 +24,8 @@
               <a href="freeport.html">Freeport</a><br>
               <a href="grobb.html">Grobb</a><br>
               <a href="halas.html">Halas</a><br>
-              <a href="neriak.html"> Neriak</a>
-              <a href="kelethin.html">Kelethin</a><br>
+              <a href="neriak.html">Neriak</a><br>
+              <a href="/kelethin">Kelethin</a><br>
               <a href="oggok.html">Oggok</a><br>
               <a href="qeynos.html">Qeynos</a><br>
               <a href="qeynoscatacombs.html">Qeynos Catacombs</a><br>
@@ -117,7 +117,7 @@
 
             <div class="content">
               <a href="felwithe.html">Felwithe</a><br>
-              <a href="kelethin.html">Kelethin</a><br>
+              <a href="/kelethin">Kelethin</a><br>
               <a href="/kaladim">Kaladim</a> (North and South)<br>
               <a href="akanon.html">Ak'Anon</a>
             </div>
@@ -146,7 +146,7 @@
               <a href="crushbone.html">Crushbone</a><br>
               <a href="dagnor.html">Dagnor's Cauldron</a><br>
               <a href="unrest.html">Estate of Unrest</a><br>
-              <a href="greaterfaydark.html">Greater Faydark</a><br>
+              <a href="/gfay">Greater Faydark</a><br>
               <a href="kedgekeep.html">Kedge Keep</a><br>
               <a href="lesserfaydark.html">Lesser Faydark</a><br>
               <a href="oot.html">Ocean of Tears</a><br>

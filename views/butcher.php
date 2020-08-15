@@ -14,9 +14,13 @@
         </tr>
         <tr>
           <th>Adjacent Zones:</th>
-          <td><a href="greaterfaydark.html">Greater Faydark</a>, <a href="kaladim.html">Kaladim</a>,
-            <a href="dagnor.html">Dagnor's Cauldron</a>, <a href="oot.html">Ocean
-            of Tears</a>, <a href="timorousdeep.html">Timorous Deep</a></td>
+          <td>
+            <a href="/gfay">Greater Faydark</a>,
+            <a href="/kaladim">Kaladim</a>,
+            <a href="dagnor.html">Dagnor's Cauldron</a>,
+            <a href="oot.html">Ocean of Tears</a>,
+            <a href="timorousdeep.html">Timorous Deep</a>
+          </td>
         </tr>
         <tr>
           <th>Level of Monsters:</th>

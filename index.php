@@ -50,6 +50,12 @@ $pages = array(
   'kaladimb' => array(
     'title' => 'North Kaladim',
   ),
+  'gfay' => array(
+    'title' => 'Greater Faydark'
+  ),
+  'kelethin' => array(
+    'title' => 'Elvish City of Kelethin within the Greater Faydark'
+  ),
 );
 if (in_array($view, array_keys($pages))) {
   //$Page->name = $_GET['view']; // if we don't whitelist here it could allow for an attacker to traverse directories
@@ -64,6 +70,8 @@ switch ($view) {
     break;
   case 'commons' :
   case 'ecommons' :
+  case 'gfay' :
+  case 'kelethin' :
   case 'butcher' :
   case 'kaladim' :
   case 'kaladima' :

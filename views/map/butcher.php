@@ -6,7 +6,7 @@
       <a href="/timorousdeep.html">Timorous Deep</a> (Boat) |
       <a href="/map/kaladima">Kaladim (South)</a> |
       <a href="/dagnor.html">Dagnor's Cauldron</a> |
-      <a href="/greaterfaydark.html">Greater Faydark</a>
+      <a href="/map/gfay">Greater Faydark</a>
     </td>
   </tr>
 </table>
