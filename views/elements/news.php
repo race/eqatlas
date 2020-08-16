@@ -10,7 +10,7 @@
         <h1><a name=notes>Notes & News</a></h1>
         <hr/>
         <h2>Nav. Improvements Under Development</h2>
-        <p class="date">Aug 15, 2020</p>
+        <p class="date">Aug 15/16, 2020</p>
         <p>EQAtlas.ca is undergoing a bunch of backend work to help template-ize our archaeic mapbook. The design will remain intact for the exhilerating nostalgia of classic EQAtlas &lt;3. With the maps templated, headers and pages can be dynamically created by the server so we'll be able to link to connected zones directly from the map pages. This means as you travel from Butcherblock Mountains to Kaladim you won't need to go back to the Index page (or the map detail page) - you'll be able to flow directly to the next map from your current map!</p>
         <p>We are going to start with some of the most commonly used zones and expand from there:
           <ul>
@@ -24,6 +24,16 @@
             <li>[X] Kaladim (North and South)</li>
             <li>[X] West Commonlands</li>
             <li>[X] East Commonlands</li>
+            <li>
+              [X] Everfrost Peaks
+              <ul>
+                <li>[X] Everfrost Caves</li>
+              </ul>
+            </li>
+            <li>[X] Permafrost Keep</li>
+            <li>[X] Blackburrow</li>
+            <li>[X] Halas</li>
+            <li>[X] Qeynos Hills</li>
             <li>[ ] East Karana</li>
             <li>[ ] West Karana</li>
             <li>[ ] North Karana</li>

@@ -56,6 +56,24 @@ $pages = array(
   'kelethin' => array(
     'title' => 'Elvish City of Kelethin within the Greater Faydark'
   ),
+  'everfrost' => array(
+    'title' => 'Everfrost Peaks'
+  ),
+  'everfrost-caves' => array(
+    'title' => 'Everfrost Caves'
+  ),
+  'permafrost' => array(
+    'title' => 'Permafrost Keep'
+  ),
+  'halas' => array(
+    'title' => 'Barbaric City of Halas',
+  ),
+  'blackburrow' => array(
+    'title' => 'Blackburrow',
+  ),
+  'qeynoshills' => array(
+    'title' => 'Qeynos Hills',
+  ),
 );
 if (in_array($view, array_keys($pages))) {
   //$Page->name = $_GET['view']; // if we don't whitelist here it could allow for an attacker to traverse directories
@@ -76,6 +94,12 @@ switch ($view) {
   case 'kaladim' :
   case 'kaladima' :
   case 'kaladimb' :
+  case 'everfrost' :
+  case 'everfrost-caves' :
+  case 'permafrost' :
+  case 'halas' :
+  case 'blackburrow' :
+  case 'qeynoshills' :
     // valid pages
     break;
   default :

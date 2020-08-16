@@ -23,7 +23,7 @@
             <div class="content">
               <a href="freeport.html">Freeport</a><br>
               <a href="grobb.html">Grobb</a><br>
-              <a href="halas.html">Halas</a><br>
+              <a href="/halas">Halas</a><br>
               <a href="neriak.html">Neriak</a><br>
               <a href="/kelethin">Kelethin</a><br>
               <a href="oggok.html">Oggok</a><br>
@@ -44,11 +44,11 @@
             <div class="content">
               <a href="arena.html">The Arena</a><br>
               <a href="befallen.html">Befallen</a><br>
-              <a href="blackburrow.html">Blackburrow</a><br>
+              <a href="/blackburrow">Blackburrow</a><br>
               <a href="cazicthule.html">Cazic-Thule</a> <br>
               <a href="/ecommons">East Commonlands (ecommons)</a><br>
               <a href="easternkarana.html">Eastern Plains of Karana</a> <br>
-              <a href="everfrost.html">Everfrost</a><br>
+              <a href="/everfrost">Everfrost Peaks</a><br>
               <a href="feerott.html">The Feerrott</a><br>
               <a href="gxorbb.html">Gorge of King Xorbb</a> <br>
               <a href="highpasshold.html">Highpass Hold</a><br>
@@ -70,8 +70,8 @@
               <a href="northro.html">Northern Desert of Ro</a><br>
               <a href="northernkarana.html">Northern Plains of Karana</a><br>
               <a href="oasisofmarr.html">Oasis of Marr</a><br>
-              <a href="permafrost.html">Permafrost Keep</a><br>
-              <a href="qeynoshills.html">Qeynos Hills</a><br>
+              <a href="/permafrost">Permafrost Keep</a><br>
+              <a href="/qeynoshills">Qeynos Hills (qeytoqrg)</a><br>
               <a href="rathemtns.html">Rathe Mountains</a><br>
               <a href="runnyeye.html">Runnyeye Citadel</a><br>
               <a href="solusekseye.html">Solusek's Eye</a> (a.k.a. Sol A)<br>
