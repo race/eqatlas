@@ -10,9 +10,9 @@
         <h1><a name=notes>Notes & News</a></h1>
         <hr/>
         <h2>Nav. Improvements Under Development</h2>
-        <p class="date">Aug 15/16, 2020</p>
+        <p class="date">Aug 17, 2020</p>
         <p>Another big round of template updates have been completed!</p>
-        <p>We are going to start with some of the most commonly used zones and expand from there:
+        <p>Today we've finished:
           <ul>
             <li>[X] Nektulos Forest</li>
             <li>[X] Lavastorm Mountains</li>
@@ -29,14 +29,6 @@
               </ul>
             </li>
             <li>[X] Northern Desert of Ro</li>
-          </ul>
-        </p>
-        <p>On the more technical side of things, the following are being done:
-          <ul>
-            <li>Content is being moved into a database for easier updates</li>
-            <li>Pages to be generated dynamically</li>
-            <li>URLs will be more friendly</li>
-            <li>Links to Project1999 pages will be added over time</li>
           </ul>
         </p>
 
