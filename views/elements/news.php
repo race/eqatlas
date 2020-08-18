@@ -11,6 +11,39 @@
         <hr/>
         <h2>Nav. Improvements Under Development</h2>
         <p class="date">Aug 15/16, 2020</p>
+        <p>Another big round of template updates have been completed!</p>
+        <p>We are going to start with some of the most commonly used zones and expand from there:
+          <ul>
+            <li>[X] Nektulos Forest</li>
+            <li>[X] Lavastorm Mountains</li>
+            <li>[X] Solusek's Eye</li>
+            <li>[X] Nagafen's Lair</li>
+            <li>[X] Najena</li>
+            <li>[X] Temple of Solusek Ro</li>
+            <li>
+              [X] Neriak
+              <ul>
+                <li>Neriak Foreign Quarter</li>
+                <li>Neriak Commons</li>
+                <li>Neriak Third Gate</li>
+              </ul>
+            </li>
+            <li>[X] Northern Desert of Ro</li>
+          </ul>
+        </p>
+        <p>On the more technical side of things, the following are being done:
+          <ul>
+            <li>Content is being moved into a database for easier updates</li>
+            <li>Pages to be generated dynamically</li>
+            <li>URLs will be more friendly</li>
+            <li>Links to Project1999 pages will be added over time</li>
+          </ul>
+        </p>
+
+        <p class="signature-we">- Serynn Dipity</p>
+        <hr/>
+        <h2>Nav. Improvements Under Development</h2>
+        <p class="date">Aug 15/16, 2020</p>
         <p>EQAtlas.ca is undergoing a bunch of backend work to help template-ize our archaeic mapbook. The design will remain intact for the exhilerating nostalgia of classic EQAtlas &lt;3. With the maps templated, headers and pages can be dynamically created by the server so we'll be able to link to connected zones directly from the map pages. This means as you travel from Butcherblock Mountains to Kaladim you won't need to go back to the Index page (or the map detail page) - you'll be able to flow directly to the next map from your current map!</p>
         <p>We are going to start with some of the most commonly used zones and expand from there:
           <ul>

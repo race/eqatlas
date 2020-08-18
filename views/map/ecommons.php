@@ -3,8 +3,8 @@
     <th>Adjacent Zones</th>
     <td>
       <a href="/map/commons">West Commonlands</a> |
-      <a href="/nektulosforest.html">Nektulos Forest</a> |
-      <a href="/northro.html">Northern Desert of Ro</a> |
+      <a href="/map/nektulos">Nektulos Forest</a> |
+      <a href="/map/northro">Northern Desert of Ro</a> |
       <a href="/freeport.html">West Freeport</a>
     </td>
   </tr>

@@ -76,7 +76,40 @@ $pages = array(
   ),
   'crushbone' => array(
     'title' => 'Clan Crushbone',
-  )
+  ),
+  'nektulos' => array(
+    'title' => 'Nektulos Forest',
+  ),
+  'neriak' => array(
+    'title' => 'Dark Elvish City of Neriak',
+  ),
+  'neriaka' => array(
+    'title' => 'Neriak Foreign Quarter | Dark Elvish City of Neriak',
+  ),
+  'neriakb' => array(
+    'title' => 'Neriak Commons | Dark Elvish City of Neriak',
+  ),
+  'neriakc' => array(
+    'title' => 'Neriak Third Gate | Dark Elvish City of Neriak',
+  ),
+  'lavastorm' => array(
+    'title' => 'Lavastorm Mountains',
+  ),
+  'najena' => array(
+    'title' => 'Najena',
+  ),
+  'solusekseye' => array(
+    'title' => 'Soldunga | Solusek\'s Eye (Sol A)',
+  ),
+  'nagafenslair' => array(
+    'title' => 'Soldungb | Nagafen\'s Lair (Sol B)',
+  ),
+  'templesro' => array(
+    'title' => 'Temple of Solusek Ro',
+  ),
+  'northro' => array(
+    'title' => 'Northern Desert of Ro',
+  ),
 );
 if (in_array($view, array_keys($pages))) {
   //$Page->name = $_GET['view']; // if we don't whitelist here it could allow for an attacker to traverse directories
@@ -104,6 +137,17 @@ switch ($view) {
   case 'blackburrow' :
   case 'qeynoshills' :
   case 'crushbone' :
+  case 'nektulos' :
+  case 'neriak' :
+  case 'neriaka' :
+  case 'neriakb' :
+  case 'neriakc' :
+  case 'lavastorm' :
+  case 'najena' :
+  case 'solusekseye' :
+  case 'nagafenslair' :
+  case 'templesro' :
+  case 'northro' :
     // valid pages
     break;
   default :

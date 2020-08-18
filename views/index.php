@@ -24,7 +24,7 @@
               <a href="freeport.html">Freeport</a><br>
               <a href="grobb.html">Grobb</a><br>
               <a href="/halas">Halas</a><br>
-              <a href="neriak.html">Neriak</a><br>
+              <a href="/neriak">Neriak</a><br>
               <a href="/kelethin">Kelethin</a><br>
               <a href="oggok.html">Oggok</a><br>
               <a href="qeynos.html">Qeynos</a><br>
@@ -57,28 +57,28 @@
               <a href="jaggedpineforest.html">Jaggedpine Forest</a><br>
               <a href="kithicor.html">Kithicor Forest</a><br>
               <a href="lakerathetear.html">Lake Rathetear</a><br>
-              <a href="lavastorm.html">Lavastorm Mountains</a><br>
+              <a href="/lavastorm">Lavastorm Mountains</a><br>
               <a href="lowerguk.html">Lower Guk</a><br>
               <a href="mistythicket.html">Misty Thicket</a><br>
             </div>
           </td>
           <td align=center colspan=2>
             <div class="content">
-              <a href="nagafenslair.html">Nagafen's Lair</a> (a.k.a. Sol B)<br>
-              <a href="najena.html">Najena</a><br>
-              <a href="nektulosforest.html">Nektulos Forest</a><br>
-              <a href="northro.html">Northern Desert of Ro</a><br>
+              <a href="/nagafenslair">Nagafen's Lair</a> (a.k.a. Sol B)<br>
+              <a href="/najena">Najena</a><br>
+              <a href="/nektulos">Nektulos Forest</a><br>
+              <a href="/northro">Northern Desert of Ro</a><br>
               <a href="northernkarana.html">Northern Plains of Karana</a><br>
               <a href="oasisofmarr.html">Oasis of Marr</a><br>
               <a href="/permafrost">Permafrost Keep</a><br>
               <a href="/qeynoshills">Qeynos Hills (qeytoqrg)</a><br>
               <a href="rathemtns.html">Rathe Mountains</a><br>
               <a href="runnyeye.html">Runnyeye Citadel</a><br>
-              <a href="solusekseye.html">Solusek's Eye</a> (a.k.a. Sol A)<br>
+              <a href="/solusekseye">Solusek's Eye</a> (a.k.a. Sol A)<br>
               <a href="southro.html">Southern Desert of Ro</a><br>
               <a href="southernkarana.html">Southern Plains of Karana</a><br>
               <a href="splitpaw.html">Splitpaw</a> <br>
-              <a href="templesro.html">Temple of Solusek Ro</a> <br>
+              <a href="/templesro">Temple of Solusek Ro</a> <br>
               <a href="upperguk.html">Upper Guk</a><br>
               <a href="/commons">West Commonlands (commons)<br></a>
               <a href="westernkarana.html">Western Plains of Karana</a>
