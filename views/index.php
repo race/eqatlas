@@ -143,7 +143,7 @@
             <div class="content">
               <a href="/butcher">Butcherblock Mountains</a><br>
               <a href="mistmoore.html">Castle Mistmoore</a><br>
-              <a href="crushbone.html">Crushbone</a><br>
+              <a href="/crushbone">Crushbone</a><br>
               <a href="dagnor.html">Dagnor's Cauldron</a><br>
               <a href="unrest.html">Estate of Unrest</a><br>
               <a href="/gfay">Greater Faydark</a><br>

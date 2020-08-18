@@ -23,8 +23,8 @@
             <a href="felwithe.html">Felwithe</a>,
             <a href="/butcher">Butcherblock Mountains</a>,
             <a href="lesserfaydark.html">Lesser Faydark</a>,
-            <a href="crushbone.html">Crushbone</a>,
-            <a href="kelethin.html">Kelethin</a> (within the zone)
+            <a href="/crushbone">Crushbone</a>,
+            <a href="/kelethin">Kelethin</a> (within the zone)
           </td>
         </tr>
         <tr>

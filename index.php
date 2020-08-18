@@ -74,6 +74,9 @@ $pages = array(
   'qeynoshills' => array(
     'title' => 'Qeynos Hills',
   ),
+  'crushbone' => array(
+    'title' => 'Clan Crushbone',
+  )
 );
 if (in_array($view, array_keys($pages))) {
   //$Page->name = $_GET['view']; // if we don't whitelist here it could allow for an attacker to traverse directories
@@ -100,6 +103,7 @@ switch ($view) {
   case 'halas' :
   case 'blackburrow' :
   case 'qeynoshills' :
+  case 'crushbone' :
     // valid pages
     break;
   default :

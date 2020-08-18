@@ -3,7 +3,7 @@
     <th>Adjacent Zones:</th>
     <td>
       <a href="/map/butcher">Butcherblock Mountains</a> |
-      <a href="crushbone.html">Crushbone</a> |
+      <a href="/map/crushbone">Crushbone</a> |
       <a href="/map/kelethin">Kelethin</a> (within the zone) |
       <a href="lesserfaydark.html">Lesser Faydark</a> |
       <a href="felwithe.html">Felwithe</a>
