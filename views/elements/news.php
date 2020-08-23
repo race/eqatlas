@@ -9,6 +9,13 @@
 
         <h1><a name=notes>Notes & News</a></h1>
         <hr/>
+        <h2>Map nav-links from gfay fixed</h2>
+        <p class="date">Aug 22, 2020</p>
+        <p>Thanks to Glenda for reporting an issue on the gfay map</p>
+        <p>Nav links to Lesser Faydark and Felwithe (from the map of Greater Faydark) have been fixed.</p>
+
+        <p class="signature-we">- Serynn Dipity</p>
+        <hr/>
         <h2>Nav. Improvements Under Development</h2>
         <p class="date">Aug 17, 2020</p>
         <p>Another big round of template updates have been completed!</p>
