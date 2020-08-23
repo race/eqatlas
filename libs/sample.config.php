@@ -8,4 +8,8 @@ define('DEBUG', true);
 define('ENV', DEV);
 
 define('ANALYTICS', '');
+
+$_CONFIG = array(
+  'domain' => 'eqatlas.local',
+);
 ?>

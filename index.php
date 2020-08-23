@@ -152,6 +152,23 @@ switch ($view) {
     break;
   default :
     $Page->title = '404 Not Found';
+    $err = 'Error - 404 Not Found!';
+    if (isset($_SERVER['HTTP_REFERER']) && !empty($_SERVER['HTTP_REFERER'])) {
+      // use the parse_url() function to create an array containing information about the domain
+      $refuri = parse_url($_SERVER['HTTP_REFERER']);
+      $err .= " {$_SERVER['REQUEST_URI']} ... {$_SERVER['SCRIPT_NAME']};";
+      if ($refuri['host'] == $_CONFIG['domain']) {
+        // The link was from our end - collect details for finding it.
+        $err .= " Referer: {$refuri['host']} ; AGENT: {$_SERVER['HTTP_USER_AGENT']} ~ User: {$_SERVER['REMOTE_ADDR']};";
+      } else {
+        // The link was on another site. $refuri['host'] will return what that site is.
+        $err .= " Referer: {$refuri['host']};";
+      }
+    } else {
+      // The visitor typed gibberish into the address bar.
+      $err .= " Likely URL mistyped or bad bookmark. ~ User: {$_SERVER['REMOTE_ADDR']};";
+    }
+    error_log($err , 0);
     echo '<h1>404 Not Found</h1>';
     exit();
 }
