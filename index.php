@@ -150,7 +150,7 @@ switch ($view) {
   case 'templesro' :
   case 'northro' :
     // valid pages
-    $Page->meta = '<meta name="viewport" content="width=width=500, initial-scale=1.0">';
+    $Page->meta = '<meta name="viewport" content="width=500, initial-scale=0.55">';
     break;
   default :
     $Page->title = '404 Not Found';
