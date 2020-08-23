@@ -121,6 +121,7 @@ switch ($view) {
   case 'index' :
     $Page->name = 'index';
     $Page->title = 'Home Index | EQ Atlas';
+    $Page->meta = '<meta name="viewport" content="width=device-width, initial-scale=1.0">';
     break;
   case 'commons' :
   case 'ecommons' :
@@ -149,9 +150,11 @@ switch ($view) {
   case 'templesro' :
   case 'northro' :
     // valid pages
+    $Page->meta = '<meta name="viewport" content="width=width=500, initial-scale=1.0">';
     break;
   default :
     $Page->title = '404 Not Found';
+    $Page->meta = '<meta name="viewport" content="width=device-width, initial-scale=1.0">';
     $err = 'Error - 404 Not Found!';
     if (isset($_SERVER['HTTP_REFERER']) && !empty($_SERVER['HTTP_REFERER'])) {
       // use the parse_url() function to create an array containing information about the domain

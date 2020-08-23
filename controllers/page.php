@@ -2,6 +2,7 @@
 class Page {
   public $name;
   public $title = '';
+  public $meta = '<meta name="viewport" content="width=device-width, initial-scale=1.0">';
 
   public $keywords = array(
     'everquest',
