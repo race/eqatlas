@@ -1,6 +1,7 @@
 <head>
   <title><?php echo $Page->title; ?></title>
-  <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style type="text/css">
     .top-menu {
       text-align: center;
