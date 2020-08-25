@@ -5,7 +5,7 @@
       <a href="/map/commons">West Commonlands</a> |
       <a href="/map/nektulos">Nektulos Forest</a> |
       <a href="/map/northro">Northern Desert of Ro</a> |
-      <a href="/freeport.html">West Freeport</a>
+      <a href="/map/freeportw">West Freeport</a>
     </td>
   </tr>
 </table>

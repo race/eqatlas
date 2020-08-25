@@ -9,6 +9,21 @@
 
         <h1><a name=notes>Notes & News</a></h1>
         <hr/>
+        <h2>More template updates...</h2>
+        <p class="date">Aug 25, 2020</p>
+        <p>
+          Following zones have been converted:
+          <ul>
+            <li>Freeport</li>
+            <ul>
+              <li>East Freeport & Tunnels</li>
+              <li>West Freeport & Tunnels</li>
+              <li>North Freeport</li>
+          </ul>
+        </p>
+
+        <p class="signature-we">- Serynn Dipity</p>
+        <hr/>
         <h2>Map nav-links from gfay fixed</h2>
         <p class="date">Aug 22, 2020</p>
         <p>Thanks to Glenda for reporting an issue on the gfay map</p>

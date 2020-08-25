@@ -110,6 +110,18 @@ $pages = array(
   'northro' => array(
     'title' => 'Northern Desert of Ro',
   ),
+  'freeport' => array(
+    'title' => 'Human City of Freeport',
+  ),
+  'freeportn' => array(
+    'title' => 'North Freeport | Human City of Freeport',
+  ),
+  'freeporte' => array(
+    'title' => 'East Freeport | Human City of Freeport',
+  ),
+  'freeportw' => array(
+    'title' => 'West Freeport | Human City of Freeport',
+  ),
 );
 if (in_array($view, array_keys($pages))) {
   //$Page->name = $_GET['view']; // if we don't whitelist here it could allow for an attacker to traverse directories
@@ -149,6 +161,10 @@ switch ($view) {
   case 'nagafenslair' :
   case 'templesro' :
   case 'northro' :
+  case 'freeport' :
+  case 'freeporte' :
+  case 'freeportn' :
+  case 'freeportw' :
     // valid pages
     $Page->meta = '<meta name="viewport" content="width=500, initial-scale=0.55">';
     break;

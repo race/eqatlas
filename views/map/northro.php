@@ -2,7 +2,7 @@
   <tr>
     <th>Adjacent Zones:</th>
     <td>
-      <a href="/freeport.html">East Freeport</a> |
+      <a href="/map/freeporte">East Freeport</a> |
       <a href="/map/ecommons">East Commonlands</a> |
       <a href="/icecladocean.html">Iceclad Ocean</a> |
       <a href="/oasisofmarr.html">Oasis of Marr</a>

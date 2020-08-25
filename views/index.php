@@ -21,7 +21,7 @@
             <h4>Cities</h4>
 
             <div class="content">
-              <a href="freeport.html">Freeport</a><br>
+              <a href="/freeport">Freeport</a><br>
               <a href="grobb.html">Grobb</a><br>
               <a href="/halas">Halas</a><br>
               <a href="/neriak">Neriak</a><br>
