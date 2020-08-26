@@ -54,7 +54,28 @@ $pages = array(
     'title' => 'Greater Faydark'
   ),
   'kelethin' => array(
-    'title' => 'Elvish City of Kelethin within the Greater Faydark'
+    'title' => 'Wood Elvish City of Kelethin within the Greater Faydark'
+  ),
+  'felwithe' => array(
+    'title' => 'High Elvish City of Felwithe',
+  ),
+  'felwithea' => array(
+    'title' => 'North Felwithe | High Elvish City of Felwithe',
+  ),
+  'felwitheb' => array(
+    'title' => 'South Felwithe | High Elvish City of Felwithe',
+  ),
+  'lfaydark' => array(
+    'title' => 'Lesser Faydark',
+  ),
+  'mistmoore' => array(
+    'title' => 'Castle Mistmoore',
+  ),
+  'steamfont' => array(
+    'title' => 'Steamfont Mountains',
+  ),
+  'akanon' => array(
+    'title' => 'Gnomish City of Ak\'Anon',
   ),
   'everfrost' => array(
     'title' => 'Everfrost Peaks'
@@ -148,6 +169,13 @@ switch ($view) {
   case 'ecommons' :
   case 'gfay' :
   case 'kelethin' :
+  case 'felwithe' :
+  case 'felwithea' :
+  case 'felwitheb' :
+  case 'lfaydark' :
+  case 'mistmoore' :
+  case 'steamfont' :
+  case 'akanon' :
   case 'butcher' :
   case 'kaladim' :
   case 'kaladima' :

@@ -5,8 +5,8 @@
       <a href="/map/butcher">Butcherblock Mountains</a> |
       <a href="/map/crushbone">Crushbone</a> |
       <a href="/map/kelethin">Kelethin</a> (within the zone) |
-      <a href="/lesserfaydark.html">Lesser Faydark</a> |
-      <a href="/felwithe.html">Felwithe</a>
+      <a href="/map/lfaydark">Lesser Faydark</a> |
+      <a href="/map/felwithe">Felwithe</a>
     </td>
   </tr>
 </table>

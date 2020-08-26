@@ -23,6 +23,16 @@
             <li>[X] Timorous Deep</li>
             <li>[X] Southern Desert of Ro</li>
             <li>[X] Oasis of Marr</li>
+            <li>[X] Felwithe
+              <ul>
+                <li>[X] North Felwithe</li>
+                <li>[X] South Felwithe</li>
+              </ul>
+            </li>
+            <li>[X] Lesser Faydark</li>
+            <li>[X] Castle Mistmoore</li>
+            <li>[X] Steamfont Mountains</li>
+            <li>[X] Ak'Anon</li>
           </ul>
         </p>
 

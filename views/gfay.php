@@ -20,9 +20,9 @@
         <tr>
           <th>Adjacent Zones:</th>
           <td>
-            <a href="felwithe.html">Felwithe</a>,
+            <a href="/felwithe">Felwithe</a>,
             <a href="/butcher">Butcherblock Mountains</a>,
-            <a href="lesserfaydark.html">Lesser Faydark</a>,
+            <a href="/lfaydark">Lesser Faydark</a>,
             <a href="/crushbone">Crushbone</a>,
             <a href="/kelethin">Kelethin</a> (within the zone)
           </td>

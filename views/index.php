@@ -116,10 +116,10 @@
             <p><b>Cities </b></p>
 
             <div class="content">
-              <a href="felwithe.html">Felwithe</a><br>
+              <a href="/felwithe">Felwithe</a><br>
               <a href="/kelethin">Kelethin</a><br>
               <a href="/kaladim">Kaladim</a> (North and South)<br>
-              <a href="akanon.html">Ak'Anon</a>
+              <a href="/akanon">Ak'Anon</a>
             </div>
           </td>
         </tr>
@@ -142,15 +142,15 @@
           <td align=center height="72" valign="top" colspan="2">
             <div class="content">
               <a href="/butcher">Butcherblock Mountains</a><br>
-              <a href="mistmoore.html">Castle Mistmoore</a><br>
+              <a href="/mistmoore">Castle Mistmoore</a><br>
               <a href="/crushbone">Crushbone</a><br>
               <a href="dagnor.html">Dagnor's Cauldron</a><br>
               <a href="unrest.html">Estate of Unrest</a><br>
               <a href="/gfay">Greater Faydark</a><br>
               <a href="kedgekeep.html">Kedge Keep</a><br>
-              <a href="lesserfaydark.html">Lesser Faydark</a><br>
+              <a href="/lfaydark">Lesser Faydark</a><br>
               <a href="oot.html">Ocean of Tears</a><br>
-              <a href="steamfont.html">Steamfont Mountains</a>
+              <a href="/steamfont">Steamfont Mountains</a>
             </div>
           </td>
         </tr>

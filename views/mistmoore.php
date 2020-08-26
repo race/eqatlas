@@ -1,78 +1,21 @@
-<html>
-
-<!-- Mirrored from www.allakabor.com/eqatlas/mistmoore.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Oct 2014 04:11:26 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<head>
-<title>Castle Mistmoore -- EQ Atlas</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<style type="text/css">
-<!--
--->
-</style>
-<meta name="description" content="Site with maps and guides to travelling the world of Everquest by Sony and Verant Interactive.">
-<meta name="keywords" content="everquest, maps, atlas, travel guide, monsters, NPC, character, travel, everquest, map, atlas, news, links, guide, eq, atlas">
-</head>
-
-<body bgcolor="#FFFFFF" background="images/bg.jpg" topmargin=0 rightmargin=0 leftmargin=0 marginheight=0 marginwidth=0>
-<table background="images/topborder.jpg" width="100%" border="0" cellpadding="0" cellspacing="0" height="10">
-  <tr>
-    <td></td>
-</table>
-<table width="8" border="0" cellpadding="0" cellspacing="0" background="images/rightborder.jpg" height="1000" align="right">
-  <tr>
-    <td></td>
-  </tr>
-</table>
-<table width="8" border="0" cellpadding="0" cellspacing="0" background="images/leftborder.jpg" height="1000" align="left">
-  <tr>
-    <td></td>
-  </tr>
-</table>
 <table width=95% border="0" cellpadding="0" cellspacing="5" align="center">  <tr>
-    <td valign="top" colspan="3"> <a href="index.html"><img src="images/logo.gif" width="301" height="104" vspace="10" alt="EQ Atlas" align="left" border="0"></a>
-  <div align="right"><a href="http://www.eqatlas.com/eqatlaspdf.html"><img src="images/pdficon.gif" width="32" height="32" border="0"><br>
-Get Muse's<br>
-Maps PDF</a> </div>
- <td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <center>
-        <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-
-      </center>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <div align="right"><b><a href="index.html">Return to Atlas Page<br>
-        </a></b></div>
-    </td>
-  </tr>
-  <tr>
     <td colspan="3">
       <h1 align: left><font size=+7>C</font>ASTLE <font size=+7>M</font>ISTMOORE</h1>
-	  <table align=right border=0 cellspacing=0 cellpadding=0 >
-              <tr>
-                <td>
-                  <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-                </td>
-              </tr>
-            </table>
+
       <table cellpadding=10 width=90%>
         <tr>
           <th>Location:</th>
           <td>Off of the southern edge of Lesser Faydark</td>
           <td rowspan=7 width="200" valign="top">
             <center>
-              <p><a href="mistmooremap.html"><img src="images/mistmooresmall.jpg" border="0" width="100" height="109" align="top"></a><br>
+              <p><a href="/map/mistmoore"><img src="/images/mistmooresmall.jpg" border="0" width="100" height="109" align="top"></a><br>
                 <b>Castle Mistmoore</b> </p>
             </center>
           </td>
         </tr>
         <tr>
           <th>Adjacent Zones:</th>
-          <td><a href="lesserfaydark.html">Lesser Faydark</a></td>
+          <td><a href="/lfaydark">Lesser Faydark</a></td>
         </tr>
         <tr>
           <th>Level of Monsters:</th>
@@ -115,12 +58,9 @@ Maps PDF</a> </div>
           <td>Outdoor</td>
         </tr>
       </table>
-      <p><b>Allakhazam Links:</b> <a href="http://eqbeastiary.allakhazam.com/search.shtml?zone=63">Bestiary</a>
-        || <a href="http://everquest.allakhazam.com/db/itemzone.html?zone=63">Equipment</a>
-        || <a href="http://everquest.allakhazam.com/db/qsearch.html?zone=63">Quests</a>
-        || <a href="http://eqdb.allakhazam.com/strategy/zones.html?zstrat=63">Strategy</a><br>
-        <font size="-1">Text last updated: 12/23/01<br>
-        Map last updated: 12/23/01</font></p>
+      <p>
+  <b>Project1999 Links:</b> <a href="https://wiki.project1999.com/Castle Mistmoore#What.27s_in_this_zone.3F" target="_blank">What's in this zone?</a>
+</p>
       <h3><font size=+2>D</font>escription</h3>
       <p>Castle Mistmoore is the stronghold of the ancient dark elf vampire, Mayong
         Mistmoore, and his throngs of followers. The castle itself has vast, mazelike
@@ -195,9 +135,4 @@ Maps PDF</a> </div>
       </td>
   </tr>
 </table>
-<p align="center">all contents Copyright 1999-2003 EQ Atlas Web Site</p>
-
-</body>
-
-<!-- Mirrored from www.allakabor.com/eqatlas/mistmoore.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Oct 2014 04:11:27 GMT -->
-</html>
+<p>Updated: Aug 26th, 2020</p>
