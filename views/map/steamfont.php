@@ -2,7 +2,7 @@
   <tr>
     <th>Adjacent Zones:</th>
     <td>
-      <a href="/map/lfaydark">Lesser Faydark</a> | 
+      <a href="/map/lfaydark">Lesser Faydark</a> |
       <a href="/map/akanon">Ak'Anon</a>
     </td>
   </tr>
@@ -62,6 +62,28 @@
         </tr>
       </table>
 
+    </td>
+  </tr>
+</table>
+<table width=95% border="0" cellpadding="0" cellspacing="5" align="center">
+  <tr>
+    <td colspan="3">
+      <h3 align: left><font size=+7>M</font>INOTAUR <font size=+7>C</font>AVES</h3>
+      <img src="/images/minocaves.jpg" width="450" height="481">
+      <table>
+        <tr>
+          <th>Location Key</th>
+        </tr>
+        <tr>
+          <td>1 Meldrath the Malignant and Guards</td>
+        </tr>
+        <tr>
+          <td>2 Slaves</td>
+        </tr>
+        <tr>
+          <td>3 The Wheelbarrow (pulling spot), Minotaur Lord spawns here</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>

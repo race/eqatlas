@@ -8,9 +8,8 @@
           <td>On the Island Continent of Faydwer</td>
           <td rowspan=7 width="200">
             <center>
-              <a href="/map/steamfont"><img src="/images/minocavessmall.jpg" width="90" height="96" border="0"></a>
-              <br>
-              <b>Minotaur Caves</b><br>
+              <a href="/map/steamfont"><img src="images/steamfontsmall.jpg" border="0" width="200" height="199"></a><br>
+              <b>Steamfont Mountains</b><br>
             </center>
             <center>
               <p><b>click to view expanded map</b><b> and overlays...</b> </p>
