@@ -3,7 +3,7 @@
     <th>Adjacent Zones:</th>
     <td>
       <a href="/oot.html">Ocean of Tears</a> (Boat) |
-      <a href="/timorousdeep.html">Timorous Deep</a> (Boat) |
+      <a href="/map/timorousdeep">Timorous Deep</a> (Boat) |
       <a href="/map/kaladima">Kaladim (South)</a> |
       <a href="/dagnor.html">Dagnor's Cauldron</a> |
       <a href="/map/gfay">Greater Faydark</a>

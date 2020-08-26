@@ -5,12 +5,12 @@
       <a href="/map/freeporte">East Freeport</a> |
       <a href="/map/ecommons">East Commonlands</a> |
       <a href="/icecladocean.html">Iceclad Ocean</a> |
-      <a href="/oasisofmarr.html">Oasis of Marr</a>
+      <a href="/map/oasis">Oasis of Marr</a>
     </td>
   </tr>
 </table>
-<table width=95% border="0" cellpadding="0" cellspacing="5" align="center">
 
+<table width=95% border="0" cellpadding="0" cellspacing="5" align="center">
   <tr>
     <td colspan="3">
       <h3 align: left><font size=+7>N</font>ORTHERN <font size=+7>D</font>ESERT

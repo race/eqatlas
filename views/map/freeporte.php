@@ -4,7 +4,6 @@
     <td>
       <a href="/map/freeportw">West Freeport</a> |
       <a href="/map/northro">Northern Desert of Ro</a>
-
     </td>
   </tr>
 </table>

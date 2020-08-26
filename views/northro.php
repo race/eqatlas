@@ -20,7 +20,7 @@
             <a href="/freeport">East Freeport</a>,
             <a href="/ecommons">East Commonlands</a>,
             <a href="/icecladocean.html">Iceclad Ocean</a>,
-            <a href="/oasisofmarr.html">Oasis of Marr</a>
+            <a href="/oasis">Oasis of Marr</a>
           </td>
         </tr>
         <tr>

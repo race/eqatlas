@@ -69,13 +69,13 @@
               <a href="/nektulos">Nektulos Forest</a><br>
               <a href="/northro">Northern Desert of Ro</a><br>
               <a href="northernkarana.html">Northern Plains of Karana</a><br>
-              <a href="oasisofmarr.html">Oasis of Marr</a><br>
+              <a href="/oasis">Oasis of Marr</a><br>
               <a href="/permafrost">Permafrost Keep</a><br>
               <a href="/qeynoshills">Qeynos Hills (qeytoqrg)</a><br>
               <a href="rathemtns.html">Rathe Mountains</a><br>
               <a href="runnyeye.html">Runnyeye Citadel</a><br>
               <a href="/solusekseye">Solusek's Eye</a> (a.k.a. Sol A)<br>
-              <a href="southro.html">Southern Desert of Ro</a><br>
+              <a href="/southro">Southern Desert of Ro</a><br>
               <a href="southernkarana.html">Southern Plains of Karana</a><br>
               <a href="splitpaw.html">Splitpaw</a> <br>
               <a href="/templesro">Temple of Solusek Ro</a> <br>
@@ -205,7 +205,7 @@
               <a href="skyfiremtns.html">Skyfire Mountains</a><br>
               <a href="swampofnohope.html">Swamp of No Hope</a><br>
               <a href="templeofdroga.html">Temple of Droga </a><br>
-              <a href="timorousdeep.html">Timorous Deep</a><br>
+              <a href="/timorousdeep">Timorous Deep</a><br>
               <a href="trakanonsteeth.html">Trakanon's Teeth</a><br>
               <a href="veeshanspeak.html">Veeshan's Peak</a><br>
               <a href="warslikswoods.html">Warsliks Woods</a>

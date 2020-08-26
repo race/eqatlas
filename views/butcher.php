@@ -19,7 +19,7 @@
             <a href="/kaladim">Kaladim</a>,
             <a href="dagnor.html">Dagnor's Cauldron</a>,
             <a href="oot.html">Ocean of Tears</a>,
-            <a href="timorousdeep.html">Timorous Deep</a>
+            <a href="/timorousdeep">Timorous Deep</a>
           </td>
         </tr>
         <tr>

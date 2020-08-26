@@ -14,11 +14,15 @@
         <p>
           Following zones have been converted:
           <ul>
-            <li>Freeport</li>
+            <li>[X] Freeport</li>
             <ul>
-              <li>East Freeport & Tunnels</li>
-              <li>West Freeport & Tunnels</li>
-              <li>North Freeport</li>
+              <li>[X] East Freeport & Tunnels</li>
+              <li>[X] West Freeport & Tunnels</li>
+              <li>[X] North Freeport</li>
+            </ul>
+            <li>[X] Timorous Deep</li>
+            <li>[X] Southern Desert of Ro</li>
+            <li>[X] Oasis of Marr</li>
           </ul>
         </p>
 
