@@ -23,7 +23,7 @@
           <td>
             <a href="/qeynoshills">Qeynos Hills</a>,
             <a href="/everfrost">Everfrost Peaks</a>,
-            <a href="jaggedpineforest.html">Jaggedpine Forest</a>
+            <!--<a href="jaggedpineforest.html">Jaggedpine Forest</a>-->
           </td>
         </tr>
         <tr>

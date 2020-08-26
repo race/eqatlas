@@ -3,7 +3,7 @@
     <th>Adjacent Zones:</th>
     <td>
       <a href="/map/qeynoshills">Qeynos Hills</a> |
-      <a href="jaggedpineforest.html">Jaggedpine Forest</a> |
+      <!--<a href="jaggedpineforest.html">Jaggedpine Forest</a> |-->
       <a href="/map/everfrost">Everfrost Peaks</a>
     </td>
   </tr>
